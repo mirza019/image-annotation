@@ -22,7 +22,7 @@ This project demonstrates basic computer vision operations using Python, OpenCV,
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/image-annotation-soccer.git
+git clone https://github.com/mirza019/image-annotation.git
 cd image-annotation-soccer
 python3 -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
